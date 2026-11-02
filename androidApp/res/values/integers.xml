@@ -1,0 +1,4 @@
+<resources>
+    <integer name="columns">3</integer>
+    <integer name="initial_count">10</integer>
+</resources>

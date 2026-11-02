@@ -1,0 +1,5 @@
+<resources>
+    <color name="even_square">#FF0000</color>
+    <color name="odd_square">#0000FF</color>
+    <color name="square_text">#FFFFFF</color>
+</resources>

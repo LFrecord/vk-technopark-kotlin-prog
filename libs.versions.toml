@@ -1,0 +1,5 @@
+[versions]
+androidx-recyclerview = "1.4.0"
+
+[libraries]
+androidx-recyclerview = { module = "androidx.recyclerview:recyclerview", version.ref = "androidx-recyclerview" }
